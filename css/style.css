@@ -79,7 +79,8 @@ a:focus, a:hover {
     display: inline-block;
     color: #fff;
     letter-spacing: 2px;
-	font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+	font-size: 40px;
 }
 .w3ls-bnr-icons.social-icon.navbar-right i {
     border: 1px solid #fff;
@@ -93,7 +94,7 @@ a:focus, a:hover {
 /*-- top-nav --*/
 .w3menu.navbar-left {
     margin-left: 8em;
-	margin-top: 10px;
+	margin-top: 30px;
 }
 
 .top-nav {
@@ -113,7 +114,7 @@ nav.navbar.navbar-default {
 .top-nav ul li a {
     text-decoration: none;
     letter-spacing: 1px;
-    font-size: 1.1em;
+    font-size: 1.3em;
     color: #fff;
     position: relative;
     font-weight: 400;
@@ -158,7 +159,7 @@ nav.navbar.navbar-default {
 /*-- //top-nav --*/
 /*-- social-icons --*/ 
 .w3ls-bnr-icons.social-icon {
-    margin: 2em 0;
+    margin: 4em 0;
 }
 .social-icon a {
     font-size: 1em;
@@ -388,13 +389,20 @@ nav.navbar.navbar-default {
 }
 .logo h1 {
     color: #fff;
-    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
     display: block;
     letter-spacing: 19px;
     margin: 185px 0 .5px;
+}
+.logo p {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
 }
 /* .logo h2 {
     color: #fff;
@@ -466,12 +474,7 @@ nav.navbar.navbar-default {
 	font-size:25px;
 	color:#fff;
 }
-.logo p {
-    font-size: 25px;
-    text-align: center;
-    color: #fff;
-    letter-spacing: 2px;
-}
+
 ul#slider3 {
     margin: 70px 0px;
 }
