@@ -387,16 +387,16 @@ nav.navbar.navbar-default {
     color: #50e4c6;
     font-weight: bold;
 }
-.logo h1 {
+.logo h2 {
     color: #fff;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
     display: block;
     letter-spacing: 19px;
-    margin: 185px 0 .5px;
+    margin: 185px 0 10px;
 }
 .logo p {
     font-size: 20px;
@@ -1652,11 +1652,15 @@ ul#slider3 {
 .iteams h4 {
     font-size: 28px;
 }
+
 .logo h2 {
     margin: 1em 0 .5em;
 }	
 }
 @media screen and (max-width: 414px){
+.logo h1 {
+    font-size: 40px;
+}
 .logo h2 {
     font-size: 40px;
 }
