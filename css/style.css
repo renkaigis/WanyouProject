@@ -640,7 +640,7 @@ ul#slider3 {
 }
 
 .w3l_nl {
-    padding: 2em;
+    padding: 0em 3em;
 }
 
 .w3l_nr img {
@@ -690,7 +690,7 @@ ul#slider3 {
     color: #777;
     line-height: 1.8em;
     letter-spacing: 2px;
-    margin: 20px 0px;
+    margin: 0px 0px 20px 0px;
 }
 
 .news {
