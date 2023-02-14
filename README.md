@@ -1,8 +1,8 @@
-# 万油更新
+# 大油作为
 
-2023 资环学院挑战杯“万油更新”创业项目
+2023 资环学院挑战杯“大油作为”创业项目
 
-https://you.renkaigis.cn/
+http://you.renkaigis.cn/
 
 - 2022 挑战杯 “省级铜奖”
 
@@ -10,4 +10,4 @@ https://you.renkaigis.cn/
 
 - 2022 挑战杯 “校级银奖”
 
-<img src="./images/School_Silver_Award.jpg" width="50%">
+<img src="./images/School_Silver_Award.jpg" width="80%">
