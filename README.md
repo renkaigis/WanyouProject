@@ -10,4 +10,4 @@ https://you.renkaigis.cn/
 
 - 2022 挑战杯 “校级银奖”
 
-![School_Silver_Award](./images/School_Silver_Award.jpg)
+<img src="./images/School_Silver_Award.jpg" width="50%">
