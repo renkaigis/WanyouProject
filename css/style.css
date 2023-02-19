@@ -1384,12 +1384,12 @@ button.btn1 {
     /* color: #000; */
     color: white;
     font-size: 15px;
-    letter-spacing: 1px;
+    /* letter-spacing: 1px; */
     line-height: 1.8em;
 }
 
 .copyright a {
-    color: #00008b;
+    color: white;
 }
 
 /*-- //footer --*/
